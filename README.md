@@ -36,3 +36,8 @@ Every python file contains an additional feature compared to the previous file. 
  Add a title window
  
 ## Feel Free to adopt parts of this code for your own programs !
+
+## Additional Resources:
+Refer to Official Documentation for additional help : https://www.pygame.org/docs/ , specially:
+- Making Games Tutorial : https://www.pygame.org/docs/tut/MakeGames.html
+- Newbie Guide : https://www.pygame.org/docs/tut/newbieguide.html
